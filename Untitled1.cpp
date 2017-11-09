@@ -9,6 +9,10 @@ int main(){
 	cin >>berat;
 	cout <<"Masukkan Tinggi Badan Anda : ";
 	cin >>tinggi;
+	
+	cout <<"Hasil Perhitungan Anda"<<endl;
+	cout<<"Berat Badan Anda : "<<berat<<endl;
+	cout<<"Tinggi Badan Anda : "<<tinggi<<endl;
 }
 	
 
