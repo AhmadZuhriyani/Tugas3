@@ -17,6 +17,13 @@ int main(){
 	pjk=gs*0.15;
 	gk=gs-pjk;
 	
+	cout <<endl;
+	cout <<"Gaji Pokok	: Rp. "<<gp<<endl;
+	cout <<"Jam Kerja	: "<<jk<<endl;
+	cout <<"Lembur 		: "<<lmbr<<endl;
+	cout <<"Gaji Sebelum Dipotong Pajak : Rp. "<<gs<<endl;
+	cout <<"Total Gaji Anda Adalah : "<<gk;
+	
 }
 	
 
