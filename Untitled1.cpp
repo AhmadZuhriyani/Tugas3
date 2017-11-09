@@ -1,5 +1,4 @@
 #include <iostream>
-01
 using namespace std;
 
 int main (){
@@ -10,4 +9,13 @@ int main (){
 	cin>>x;
 	cout <<"Masukkan Nilai Y : ";
 	cin>>y;
+	
+		if (x>y){
+		z=x-y;
+	}
+	else if (y>x){
+		z=y-x;
+	}
+	
+	cout <<"Hasil : "<<z;
 }
